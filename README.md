@@ -48,3 +48,13 @@
 * [Data Structures and Algorithms in JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=6Wzj7kxfRdI&t)
 * [Practice common algorithms using JavaScript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 * [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
+* [Algorithms-Javascript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
+
+## Contributing
+
+Feel free to raise a PR, adhering to the <a href="https://github.com/Awesome-Java-Script/javascript-interview-questions/blob/master/contributing.md">guidelines</a>.
+
+## Licence
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+Creative Commons Zero v1.0 Universal
+
